@@ -1,1 +1,6 @@
-{}
+{
+  "attachmentFolderPath": "attachment",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00_inbox",
+  "trashOption": "local"
+}
