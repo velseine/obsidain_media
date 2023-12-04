@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "单片机和cpu.md",
+                "file": "计算机/单片机和cpu.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "单片机和cpu.md",
+                "file": "计算机/单片机和cpu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "单片机和cpu.md",
+                "file": "计算机/单片机和cpu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "单片机和cpu.md"
+                "file": "计算机/单片机和cpu.md"
               }
             }
           }
@@ -169,11 +169,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1d9d9a1ddb9c7c8e",
+  "active": "cb44ce33f507b0e3",
   "lastOpenFiles": [
-    "内存相差百万倍！单片机和CPU的区别？_哔哩哔哩_bilibili.mp4",
+    "计算机",
     "未命名.md",
-    "单片机和cpu.md",
+    "计算机/单片机和cpu.md",
+    "内存相差百万倍！单片机和CPU的区别？_哔哩哔哩_bilibili.mp4",
     "init.md",
     "00_inbox",
     "attachment"
