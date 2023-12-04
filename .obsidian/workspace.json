@@ -8,27 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3af4c662abfa92d3",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "1d9d9a1ddb9c7c8e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "media-view",
               "state": {
-                "file": "未命名.md",
-                "mode": "source",
-                "source": false
+                "file": "内存相差百万倍！单片机和CPU的区别？_哔哩哔哩_bilibili.mp4",
+                "info": {
+                  "type": "video",
+                  "filename": "内存相差百万倍！单片机和CPU的区别？_哔哩哔哩_bilibili.mp4",
+                  "src": "内存相差百万倍！单片机和CPU的区别？_哔哩哔哩_bilibili.mp4",
+                  "subtitles": [],
+                  "hash": ""
+                },
+                "currentTime": 0
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "内存相差百万倍！单片机和CPU的区别？_哔哩哔哩_bilibili.mp4",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.md",
+                "file": "内存相差百万倍！单片机和CPU的区别？_哔哩哔哩_bilibili.mp4",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "内存相差百万倍！单片机和CPU的区别？_哔哩哔哩_bilibili.mp4"
               }
             }
           }
@@ -157,9 +154,9 @@
   },
   "active": "1d9d9a1ddb9c7c8e",
   "lastOpenFiles": [
-    "内存相差百万倍！单片机和CPU的区别？_哔哩哔哩_bilibili.mp4",
     "未命名.md",
-    "init.md",
-    "单片机和cpu.md"
+    "内存相差百万倍！单片机和CPU的区别？_哔哩哔哩_bilibili.mp4",
+    "单片机和cpu.md",
+    "init.md"
   ]
 }
