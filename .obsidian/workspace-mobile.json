@@ -21,8 +21,7 @@
                     "mode": "preview",
                     "source": false
                   }
-                },
-                "group": "655d5b19ac83826d"
+                }
               }
             ]
           },
@@ -39,38 +38,18 @@
                     "type": "split",
                     "children": [
                       {
-                        "id": "b01da7d0099a658e",
+                        "id": "1f9b8927a9269ef5",
                         "type": "tabs",
                         "children": [
                           {
-                            "id": "195e11ee4a235d7e",
-                            "type": "leaf",
-                            "state": {
-                              "type": "media-view",
-                              "state": {
-                                "file": "内存相差百万倍！单片机和CPU的区别？_哔哩哔哩_bilibili.mp4",
-                                "info": {
-                                  "type": "video",
-                                  "filename": "内存相差百万倍！单片机和CPU的区别？_哔哩哔哩_bilibili.mp4",
-                                  "src": "内存相差百万倍！单片机和CPU的区别？_哔哩哔哩_bilibili.mp4",
-                                  "subtitles": [],
-                                  "hash": "#t=01:02.939"
-                                },
-                                "currentTime": 134.192956
-                              }
-                            },
-                            "group": "655d5b19ac83826d"
-                          },
-                          {
-                            "id": "5b165552e24b962c",
+                            "id": "ab90e9a941dfeb96",
                             "type": "leaf",
                             "state": {
                               "type": "empty",
                               "state": {}
                             }
                           }
-                        ],
-                        "currentTab": 1
+                        ]
                       },
                       {
                         "id": "3ff3d317aed962ff",
@@ -210,6 +189,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "计算机/单片机和cpu.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -226,6 +206,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "计算机/单片机和cpu.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -236,7 +217,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "计算机/单片机和cpu.md"
+          }
         }
       }
     ],
@@ -252,7 +235,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5b165552e24b962c",
+  "active": "a426de5aabde20c2",
   "lastOpenFiles": [
     "内存相差百万倍！单片机和CPU的区别？_哔哩哔哩_bilibili.mp4",
     "计算机/单片机和cpu.md",
