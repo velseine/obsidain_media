@@ -523,15 +523,15 @@ o段未然+う=意志形
 
 “まで”可以表达动作或状态所到达的程度。
 
-![](https://api.bilibili.com/x/note/image?image_id=126678)
+![[Pasted image 20231216225305.png]]
 
 “さえ”也表达“连”的意思。“まで未扩大的意思，而“さえ”则表达一般不会出现的情况出现了的意思
 
-![](https://api.bilibili.com/x/note/image?image_id=126679)
+![[Pasted image 20231216225322.png]]
 
 “こそ”相当于汉语的“才” 有强调的意思
 
-![](https://api.bilibili.com/x/note/image?image_id=126680)
+![[Pasted image 20231216225335.png]]
 
 くらい相当于左右，表达的是一个约数、大约的一个数字。也能翻译成（程度）
 
@@ -543,7 +543,7 @@ o段未然+う=意志形
 
 ﻿
 
-![](https://api.bilibili.com/x/note/image?image_id=126681)
+![[Pasted image 20231216225407.png]]
 
 在表示限定时，ばかり和だけ差不多 。ばっかり中间可以加促音表示强调，有气愤的意味
 
@@ -561,11 +561,11 @@ o段未然+う=意志形
 
 ﻿
 
-![](https://api.bilibili.com/x/note/image?image_id=126688)
+![[Pasted image 20231216225425.png]]
 
 动词て形+おく 表达的是事先预先做好某事的含义
 
-![](https://api.bilibili.com/x/note/image?image_id=126689)
+![[Pasted image 20231216225431.png]]
 
 上课以前我就复习了
 
@@ -581,13 +581,13 @@ o段未然+う=意志形
 
 ﻿
 
-![](https://api.bilibili.com/x/note/image?image_id=126690)
+![[Pasted image 20231216225437.png]]
 
 みる补助动词表达“试着做某事”的意思
 
 みせる一定要……给你看，表达非常强烈的决心
 
-![](https://api.bilibili.com/x/note/image?image_id=126691)
+![[Pasted image 20231216225445.png]]
 
 くる、いく，也是补助动词，可以表示时间空间上的来去
 
@@ -595,7 +595,7 @@ o段未然+う=意志形
 
 受害被动：父亲死了这件事对说话人造成了困扰，让说话人受害了，在这种情况下要用动词的被动形来表达这种含义。
 
-![](https://api.bilibili.com/x/note/image?image_id=129252)
+![[Pasted image 20231216225456.png]]
 
 动词て形加上“くれる”这个授受动词，它表达的意思是佐藤先生做的这件事对我来说是受益了的，只要对方做了什么事情，对我或自己这一方的人有益，就需要通过授受关系去体现这一层的含义
 
@@ -615,7 +615,7 @@ o段未然+う=意志形
 
 もらう“もらう”正好和“あげる”是相反的，我或我自己一方的人来让外面的人为我做什么，我得到了什么，是要用“もらう”来表示的
 
-![](https://api.bilibili.com/x/note/image?image_id=129255)
+![[Pasted image 20231216225503.png]]
 
 ﻿
 
@@ -652,8 +652,7 @@ o段未然+う=意志形
 ﻿
 
 ね（终助词）感叹，提醒。读升调的时候表达确认，那我也赞成吧
-
-![](https://api.bilibili.com/x/note/image?image_id=129262)
+![[Pasted image 20231216225513.png]]
 
 动词て形+しまう 表达彻底完成某事的意思
 
@@ -669,11 +668,11 @@ o段未然+う=意志形
 
 とも（终助词）表示自信：那件事我一定行的
 
-![](https://api.bilibili.com/x/note/image?image_id=129267)
+![[Pasted image 20231216225521.png]]
 
 …っけ（促音+け，终助词），表示回想：会议是几点开始来着。因为表示回想，前面经常用过去式
 
-![](https://api.bilibili.com/x/note/image?image_id=129270)
+![[Pasted image 20231216225527.png]]
 
 さ（男性使用终助词）“だ”表判断，用“さ”替换“だ”表示充满自信的判断。“だ”前面只能接名次，“さ”前面除了名词之外可以接一些别的句子成分
 
@@ -691,21 +690,20 @@ o段未然+う=意志形
 
 翻译：是你啊
 
-![](https://api.bilibili.com/x/note/image?image_id=129271)
+![[Pasted image 20231216225537.png]]
 
 终助词放在句节间
 
 あのねあのね
 
-![](https://api.bilibili.com/x/note/image?image_id=129272)
+![[Pasted image 20231216225547.png]]
 
 一个名词后面加上一个副助词或一个格助词，那么它就构成了一个完整的句节。也就是说它在句子中是共同地表意，表达成分的，是不可分割的在这个不可分割的部分的后面是可以加上终助词的。但是呢，这种可以直接作为一个句子的成分直接作为一个句节的除外，比如说时间状语きのう 这种可以直接作状语，后面不需要加副助词或格助词
 
 终助词和だ的连用
 
 な(なあ) ぞ　わ　とも 这些终助词前面如果是名词句的话，必须有这个“だ”的
-
-![](https://api.bilibili.com/x/note/image?image_id=129273)
+![[Pasted image 20231216225610.png]]
 
 **第十六课**
 
@@ -733,7 +731,7 @@ o段未然+う=意志形
 
 小句中的主语必须用が表示2233
 
-![](https://api.bilibili.com/x/note/image?image_id=129274)
+![[Pasted image 20231216225617.png]]
 
 ﻿
 
@@ -839,11 +837,11 @@ o段未然+う=意志形
 
 所以，表达动词的宾语应该是用“を”的，所以这里，都是想要要什么东西，第二句的格助词要从が变成を
 
-![](https://api.bilibili.com/x/note/image?image_id=143869)
+![[Pasted image 20231216225633.png]]
 
 彼に早く謝ってほしい。 意思是想让他快点道歉。而不是想早点向他道歉，“たい”是我想做什么，“ほしい”是我想让别人做什么，想让谁做什么呢，只需要在他的后面加上“に”就可以了，“に”前面的部分不仅可以是真正存在的人 还可以是一种抽象的概念，前面是名词 写作：欲しい，动词て形后面 写作：ほしい
 
-![](https://api.bilibili.com/x/note/image?image_id=143870)
+![[Pasted image 20231216225645.png]]
 
 **第二十一课**
 
@@ -1099,7 +1097,7 @@ o段未然+う=意志形
 
   
 
-![](https://api.bilibili.com/x/note/image?image_id=169450)
+![[Pasted image 20231216225659.png]]
 ![[Pasted image 20231216195623.png]]
   
 
