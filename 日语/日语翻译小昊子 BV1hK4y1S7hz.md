@@ -220,8 +220,7 @@
 
 动作，形容词的主语，事物的存在（和地点无关），状态的对象，能力的对象
 
-![](https://api.bilibili.com/x/note/image?image_id=126564)
-
+![[Pasted image 20231216201837.png]]
   
 
   
