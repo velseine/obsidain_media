@@ -360,11 +360,11 @@ o段未然+う=意志形
 
   
 
-![](https://api.bilibili.com/x/note/image?image_id=126579)
+![[Pasted image 20231216222200.png]]
 
   
 
-![](https://api.bilibili.com/x/note/image?image_id=126580)
+![[Pasted image 20231216222209.png]]
 
 可能态（られる）
 
@@ -374,8 +374,7 @@ o段未然+う=意志形
 
 ﻿
 
-![](https://api.bilibili.com/x/note/image?image_id=126581)
-
+![[Pasted image 20231216222223.png]]
 被动态（られる，但不能简写为eる）
 
 ﻿
@@ -508,13 +507,13 @@ o段未然+う=意志形
 
 这里的“でも”仍然是举例的作用。在所有饮品或其他事物中选择一个来举例的作用。
 
-![](https://api.bilibili.com/x/note/image?image_id=126674)
+![[Pasted image 20231216222518.png]]
 
   
 
 这里的“でも”表达最低限的意思，相当于汉语的“那样也可以吧”
 
-![](https://api.bilibili.com/x/note/image?image_id=126675)
+![[Pasted image 20231216222539.png]]
 
   
 
