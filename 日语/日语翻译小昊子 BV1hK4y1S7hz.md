@@ -328,7 +328,7 @@
 
 视频有与形容词的否定对比
 
-![](https://api.bilibili.com/x/note/image?image_id=126585)
+![[Pasted image 20231216221816.png]]
 
   
 
@@ -342,7 +342,7 @@
 
 o段未然+う=意志形
 
-推量形的准确称呼第二种未然形（https://zhidao.baidu.com/question/34770282.html
+推量形的准确称呼第二种未然形 https://zhidao.baidu.com/question/34770282.html
 
 1 、说话人自己有意识做某事
 
@@ -356,7 +356,7 @@ o段未然+う=意志形
 
 五段活用
 
-![](https://api.bilibili.com/x/note/image?image_id=126578)
+![[Pasted image 20231216221937.png]]
 
   
 
