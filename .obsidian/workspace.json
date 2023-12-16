@@ -13,33 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机/单片机和cpu.md",
+                "file": "日语/日语翻译小昊子 BV1hK4y1S7hz.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "0786de1e4db4d540",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bf7910da7f061fe1",
-            "type": "leaf",
-            "state": {
-              "type": "media-view",
-              "state": {
-                "file": "内存相差百万倍！单片机和CPU的区别？_哔哩哔哩_bilibili.mp4",
-                "info": {
-                  "type": "video",
-                  "filename": "内存相差百万倍！单片机和CPU的区别？_哔哩哔哩_bilibili.mp4",
-                  "src": "内存相差百万倍！单片机和CPU的区别？_哔哩哔哩_bilibili.mp4",
-                  "subtitles": [],
-                  "hash": ""
-                },
-                "currentTime": 0
               }
             }
           }
@@ -109,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机/单片机和cpu.md",
+                "file": "日语/日语翻译小昊子 BV1hK4y1S7hz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机/单片机和cpu.md",
+                "file": "日语/日语翻译小昊子 BV1hK4y1S7hz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机/单片机和cpu.md"
+                "file": "日语/日语翻译小昊子 BV1hK4y1S7hz.md"
               }
             }
           }
@@ -169,11 +145,23 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "cb44ce33f507b0e3",
+  "active": "1d9d9a1ddb9c7c8e",
   "lastOpenFiles": [
+    "计算机/单片机和cpu.md",
+    "日语/日语翻译小昊子 BV1hK4y1S7hz.md",
+    "attachment/Pasted image 20231216225659.png",
+    "attachment/Pasted image 20231216225645.png",
+    "attachment/Pasted image 20231216225633.png",
+    "attachment/Pasted image 20231216225617.png",
+    "attachment/Pasted image 20231216225610.png",
+    "attachment/Pasted image 20231216225547.png",
+    "attachment/Pasted image 20231216225537.png",
+    "attachment/Pasted image 20231216225527.png",
+    "attachment/Pasted image 20231216225521.png",
+    "attachment/Pasted image 20231216225513.png",
+    "日语",
     "计算机",
     "未命名.md",
-    "计算机/单片机和cpu.md",
     "内存相差百万倍！单片机和CPU的区别？_哔哩哔哩_bilibili.mp4",
     "init.md",
     "00_inbox",
