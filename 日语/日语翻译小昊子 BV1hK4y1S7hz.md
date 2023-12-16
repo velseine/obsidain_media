@@ -288,21 +288,16 @@
 ﻿
 
 表示动作的起点，从.....来
-
-![](https://api.bilibili.com/x/note/image?image_id=126558)
-
+![[Pasted image 20231216221256.png]]
 　まで
 
 表示终点
-
-![](https://api.bilibili.com/x/note/image?image_id=126559)
-
+![[Pasted image 20231216221316.png]]
 より
 
 相比，书面的から，从开始
 
-![](https://api.bilibili.com/x/note/image?image_id=126560)
-
+![[Pasted image 20231216221342.png]]
 **第七课**
 
 副助词は和格助词を、が终突，和で不冲突
