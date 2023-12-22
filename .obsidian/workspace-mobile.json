@@ -4,126 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "df2246d8b2aadcca",
-        "type": "split",
+        "id": "7ae1bad062817f6c",
+        "type": "tabs",
         "children": [
           {
-            "id": "7ae1bad062817f6c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a426de5aabde20c2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "计算机/单片机和cpu.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
+            "id": "a426de5aabde20c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日语/日语翻译小昊子 BV1hK4y1S7hz.md",
+                "mode": "preview",
+                "source": false
               }
-            ]
-          },
-          {
-            "id": "f0265fcdac10fbe0",
-            "type": "split",
-            "children": [
-              {
-                "id": "61e76e8e676eda10",
-                "type": "split",
-                "children": [
-                  {
-                    "id": "31579a36531a4417",
-                    "type": "split",
-                    "children": [
-                      {
-                        "id": "1f9b8927a9269ef5",
-                        "type": "tabs",
-                        "children": [
-                          {
-                            "id": "ab90e9a941dfeb96",
-                            "type": "leaf",
-                            "state": {
-                              "type": "empty",
-                              "state": {}
-                            }
-                          }
-                        ]
-                      },
-                      {
-                        "id": "3ff3d317aed962ff",
-                        "type": "tabs",
-                        "children": [
-                          {
-                            "id": "8e09daa788251fff",
-                            "type": "leaf",
-                            "state": {
-                              "type": "empty",
-                              "state": {}
-                            }
-                          }
-                        ]
-                      }
-                    ],
-                    "direction": "vertical"
-                  },
-                  {
-                    "id": "52253641c71b4a29",
-                    "type": "tabs",
-                    "children": [
-                      {
-                        "id": "2824533777d3f01a",
-                        "type": "leaf",
-                        "state": {
-                          "type": "media-view",
-                          "state": {
-                            "file": "内存相差百万倍！单片机和CPU的区别？_哔哩哔哩_bilibili.mp4",
-                            "info": {
-                              "type": "video",
-                              "filename": "内存相差百万倍！单片机和CPU的区别？_哔哩哔哩_bilibili.mp4",
-                              "src": "内存相差百万倍！单片机和CPU的区别？_哔哩哔哩_bilibili.mp4",
-                              "subtitles": [],
-                              "hash": "#t=01:02.939"
-                            },
-                            "currentTime": 114.66915
-                          }
-                        }
-                      }
-                    ]
-                  }
-                ],
-                "direction": "horizontal"
-              },
-              {
-                "id": "eeb56d836f74addd",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "ecd62951a594955c",
-                    "type": "leaf",
-                    "state": {
-                      "type": "media-view",
-                      "state": {
-                        "file": "内存相差百万倍！单片机和CPU的区别？_哔哩哔哩_bilibili.mp4",
-                        "info": {
-                          "type": "video",
-                          "filename": "内存相差百万倍！单片机和CPU的区别？_哔哩哔哩_bilibili.mp4",
-                          "src": "内存相差百万倍！单片机和CPU的区别？_哔哩哔哩_bilibili.mp4",
-                          "subtitles": [],
-                          "hash": "#t=01:02.939"
-                        },
-                        "currentTime": 99.438033
-                      }
-                    }
-                  }
-                ]
-              }
-            ],
-            "direction": "vertical"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -176,7 +72,8 @@
           "state": {}
         }
       }
-    ]
+    ],
+    "currentTab": 0
   },
   "right": {
     "id": "a18309cb68c6d8a6",
@@ -188,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "计算机/单片机和cpu.md",
+            "file": "日语/日语翻译小昊子 BV1hK4y1S7hz.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -205,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "计算机/单片机和cpu.md",
+            "file": "日语/日语翻译小昊子 BV1hK4y1S7hz.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -217,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "计算机/单片机和cpu.md"
+            "file": "日语/日语翻译小昊子 BV1hK4y1S7hz.md"
           }
         }
       }
@@ -236,7 +133,9 @@
   },
   "active": "a426de5aabde20c2",
   "lastOpenFiles": [
+    "内存相差百万倍！单片机和CPU的区别？_哔哩哔哩_bilibili.mp4",
     "日语/日语翻译小昊子 BV1hK4y1S7hz.md",
+    "计算机/单片机和cpu.md",
     "attachment/Pasted image 20231216225659.png",
     "attachment/Pasted image 20231216225645.png",
     "attachment/Pasted image 20231216225633.png",
@@ -252,8 +151,6 @@
     "attachment",
     "/日语",
     "/attachment",
-    "内存相差百万倍！单片机和CPU的区别？_哔哩哔哩_bilibili.mp4",
-    "计算机/单片机和cpu.md",
     "/计算机/单片机和cpu.md",
     "计算机",
     "/计算机",
