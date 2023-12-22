@@ -1130,3 +1130,4 @@ o段未然+う=意志形
 ![[Pasted image 20231216195457.png]]
 
 撸五次，nmb
+![[Screenshot_2023-12-22-19-34-34-763_mark.via.gp.jpg]]
