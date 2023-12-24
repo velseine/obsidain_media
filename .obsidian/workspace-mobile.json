@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b546f7aa0d770bc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "日语/日语翻译小昊子 BV1hK4y1S7hz.md",
+            "file": "未命名.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "日语/日语翻译小昊子 BV1hK4y1S7hz.md",
+            "file": "未命名.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "日语/日语翻译小昊子 BV1hK4y1S7hz.md"
+            "file": "未命名.md"
           }
         }
       }
@@ -131,11 +144,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a426de5aabde20c2",
+  "active": "b546f7aa0d770bc1",
   "lastOpenFiles": [
+    "日语/日语翻译小昊子 BV1hK4y1S7hz.md",
+    "未命名.md",
     "attachment/Screenshot_2023-12-22-19-34-34-763_mark.via.gp.jpg",
     "日语/动词活用.md",
-    "日语/日语翻译小昊子 BV1hK4y1S7hz.md",
     "内存相差百万倍！单片机和CPU的区别？_哔哩哔哩_bilibili.mp4",
     "计算机/单片机和cpu.md",
     "attachment/Pasted image 20231216225659.png",
@@ -147,7 +161,6 @@
     "attachment/Pasted image 20231216225537.png",
     "attachment/Pasted image 20231216225527.png",
     "attachment/Pasted image 20231216225521.png",
-    "attachment/Pasted image 20231216225513.png",
     "/日语/日语翻译小昊子 BV1hK4y1S7hz.md",
     "日语",
     "attachment",
