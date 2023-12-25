@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "未命名 1.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -156,7 +156,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4b69c9a5ff2079b5",
+  "active": "06d7dedbb9a0f30f",
   "lastOpenFiles": [
     "未命名.md",
     "未命名 1.md",
