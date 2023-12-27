@@ -1,13 +1,4 @@
 {
-  "app:open-vault": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "O"
-    }
-  ],
   "cycle-through-panes:focus-on-last-active-pane": [
     {
       "modifiers": [
@@ -22,6 +13,14 @@
         "Ctrl"
       ],
       "key": "PageDown"
+    }
+  ],
+  "app:open-vault": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
     }
   ]
 }
