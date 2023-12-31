@@ -4,5 +4,5 @@
   "newFileFolderPath": "00_inbox",
   "trashOption": "local",
   "promptDelete": false,
-  "mobilePullAction": "cloze:add-cloze"
+  "mobilePullAction": "command-palette:open"
 }
