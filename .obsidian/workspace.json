@@ -143,7 +143,8 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "cloze:显/隐所有填空": false
     }
   },
   "active": "b132c5dd11eb55a4",
