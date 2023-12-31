@@ -3,5 +3,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "00_inbox",
   "trashOption": "local",
-  "promptDelete": false
+  "promptDelete": false,
+  "mobilePullAction": "cloze:add-cloze"
 }

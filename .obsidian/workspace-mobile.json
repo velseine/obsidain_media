@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日语/日语翻译小昊子 BV1hK4y1S7hz.md",
+                "file": "00_inbox/2023-12-31.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4fb67956fff27785",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_inbox/中译日.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "日语/日语翻译小昊子 BV1hK4y1S7hz.md",
+            "file": "00_inbox/中译日.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "日语/日语翻译小昊子 BV1hK4y1S7hz.md",
+            "file": "00_inbox/中译日.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "日语/日语翻译小昊子 BV1hK4y1S7hz.md"
+            "file": "00_inbox/中译日.md"
           }
         }
       }
@@ -123,6 +136,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "cloze:显/隐所有填空": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -131,19 +145,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6340a551a5f55d8e",
+  "active": "4fb67956fff27785",
   "lastOpenFiles": [
     "00_inbox/2023-12-31.md",
+    "00_inbox/中译日.md",
+    "日语/日语翻译小昊子 BV1hK4y1S7hz.md",
+    "日语/动词活用.md",
     "00_inbox/[.md",
     "/00_inbox/2023-12-31.md",
     "/00_inbox/[.md",
     "00_inbox",
     "/00_inbox",
-    "日语/动词活用.md",
     "计算机/单片机和cpu.md",
     "未命名 1.md",
     "未命名.md",
-    "日语/日语翻译小昊子 BV1hK4y1S7hz.md",
     "attachment/Screenshot_2023-12-22-19-34-34-763_mark.via.gp.jpg",
     "内存相差百万倍！单片机和CPU的区别？_哔哩哔哩_bilibili.mp4",
     "attachment/Pasted image 20231216225659.png",
