@@ -22,5 +22,13 @@
       ],
       "key": "R"
     }
+  ],
+  "cloze:add-cloze": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "/"
+    }
   ]
 }
