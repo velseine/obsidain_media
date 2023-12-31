@@ -72,7 +72,8 @@
           "state": {}
         }
       }
-    ]
+    ],
+    "currentTab": 0
   },
   "right": {
     "id": "a18309cb68c6d8a6",
@@ -132,6 +133,12 @@
   },
   "active": "6340a551a5f55d8e",
   "lastOpenFiles": [
+    "00_inbox/2023-12-31.md",
+    "00_inbox/[.md",
+    "/00_inbox/2023-12-31.md",
+    "/00_inbox/[.md",
+    "00_inbox",
+    "/00_inbox",
     "日语/动词活用.md",
     "计算机/单片机和cpu.md",
     "未命名 1.md",
