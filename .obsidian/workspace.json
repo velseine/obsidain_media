@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日语/日语 形容词、形容动词、动词的活用.md",
+                "file": "日语/动词活用.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b7464d93c8193391",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日语/动词活用.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日语/日语 形容词、形容动词、动词的活用.md",
+                "file": "日语/动词活用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日语/日语 形容词、形容动词、动词的活用.md",
+                "file": "日语/动词活用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日语/日语 形容词、形容动词、动词的活用.md"
+                "file": "日语/动词活用.md"
               }
             }
           }
@@ -147,12 +160,16 @@
       "cloze:显/隐所有填空": false
     }
   },
-  "active": "b132c5dd11eb55a4",
+  "active": "b7464d93c8193391",
   "lastOpenFiles": [
+    "日语/日语 形容词、形容动词、动词的活用.md",
+    "attachment/日语 形容词、形容动词、动词的活用 2.md",
     "日语/动词活用.md",
+    "attachment/日语 形容词、形容动词、动词的活用 3.md",
+    "attachment/日语 形容词、形容动词、动词的活用 1.md",
+    "attachment/日语 形容词、形容动词、动词的活用.md",
     "日语/学校文法 和 教育文法 对照.md",
     "日语/日语翻译小昊子 BV1hK4y1S7hz.md",
-    "日语/日语 形容词、形容动词、动词的活用.md",
     "attachment/Pasted image 20240119012338.png",
     "attachment/Pasted image 20240119012315.png",
     "attachment/Pasted image 20240119011856.png",
