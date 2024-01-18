@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日语/学校文法 和 教育文法 对照.md",
+                "file": "日语/动词活用.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日语/学校文法 和 教育文法 对照.md",
+                "file": "日语/动词活用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日语/学校文法 和 教育文法 对照.md",
+                "file": "日语/动词活用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日语/学校文法 和 教育文法 对照.md"
+                "file": "日语/动词活用.md"
               }
             }
           }
@@ -149,11 +149,14 @@
   },
   "active": "b132c5dd11eb55a4",
   "lastOpenFiles": [
+    "日语/学校文法 和 教育文法 对照.md",
+    "attachment/Pasted image 20240119012338.png",
+    "attachment/Pasted image 20240119012315.png",
+    "日语/日语 形容词、形容动词、动词的活用.md",
+    "日语/动词活用.md",
+    "日语/日语翻译小昊子 BV1hK4y1S7hz.md",
     "attachment/Pasted image 20240119011856.png",
     "attachment/Pasted image 20240119011850.png",
-    "日语/日语 形容词、形容动词、动词的活用.md",
-    "日语/学校文法 和 教育文法 对照.md",
-    "日语/日语翻译小昊子 BV1hK4y1S7hz.md",
     "内存相差百万倍！单片机和CPU的区别？_哔哩哔哩_bilibili.mp4",
     "00_inbox/2023-12-31.md",
     "00_inbox/[.md",
@@ -161,7 +164,6 @@
     "未命名.md",
     "未命名 1.md",
     "00_inbox/未命名.md",
-    "日语/动词活用.md",
     "attachment/Screenshot_2023-12-22-19-34-34-763_mark.via.gp.jpg",
     "计算机/单片机和cpu.md",
     "attachment/Pasted image 20231216225659.png",
@@ -169,9 +171,6 @@
     "attachment/Pasted image 20231216225633.png",
     "attachment/Pasted image 20231216225617.png",
     "attachment/Pasted image 20231216225610.png",
-    "attachment/Pasted image 20231216225547.png",
-    "attachment/Pasted image 20231216225537.png",
-    "attachment/Pasted image 20231216225527.png",
     "日语",
     "计算机",
     "init.md",
