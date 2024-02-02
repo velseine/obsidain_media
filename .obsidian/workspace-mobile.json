@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "乐理/基础概念.md",
+                "file": "乐理/调式.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "乐理/基础概念.md",
+            "file": "乐理/调式.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "乐理/基础概念.md",
+            "file": "乐理/调式.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "乐理/基础概念.md"
+            "file": "乐理/调式.md"
           }
         }
       }
@@ -157,10 +157,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "35685461f245e52f",
+  "active": "6340a551a5f55d8e",
   "lastOpenFiles": [
-    "乐理/调式.md",
     "乐理/基础概念.md",
+    "attachment/54fbb2fb43166d2248b77051d19e43fb9252d278.jpeg",
+    "attachment/1000004910.jpg",
+    "乐理/调式.md",
     "日语/学校文法 和 教育文法 对照.md",
     "乐理",
     "日语/日语 形容词、形容动词、动词的活用.md",
@@ -195,10 +197,7 @@
     "/00_inbox",
     "计算机/单片机和cpu.md",
     "未命名 1.md",
-    "未命名.md",
-    "attachment/Screenshot_2023-12-22-19-34-34-763_mark.via.gp.jpg",
     "内存相差百万倍！单片机和CPU的区别？_哔哩哔哩_bilibili.mp4",
-    "attachment/Pasted image 20231216225659.png",
     "日语",
     "attachment",
     "/日语",
