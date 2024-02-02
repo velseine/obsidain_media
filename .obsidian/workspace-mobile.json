@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_inbox/调式.md",
+                "file": "乐理/基础概念.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "00_inbox/调式.md",
+            "file": "乐理/基础概念.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "00_inbox/调式.md",
+            "file": "乐理/基础概念.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "00_inbox/调式.md"
+            "file": "乐理/基础概念.md"
           }
         }
       }
@@ -159,8 +159,9 @@
   },
   "active": "35685461f245e52f",
   "lastOpenFiles": [
+    "乐理/调式.md",
+    "乐理/基础概念.md",
     "日语/学校文法 和 教育文法 对照.md",
-    "00_inbox/调式.md",
     "乐理",
     "日语/日语 形容词、形容动词、动词的活用.md",
     "日语/动词活用.md",
@@ -198,7 +199,6 @@
     "attachment/Screenshot_2023-12-22-19-34-34-763_mark.via.gp.jpg",
     "内存相差百万倍！单片机和CPU的区别？_哔哩哔哩_bilibili.mp4",
     "attachment/Pasted image 20231216225659.png",
-    "/日语/日语翻译小昊子 BV1hK4y1S7hz.md",
     "日语",
     "attachment",
     "/日语",
