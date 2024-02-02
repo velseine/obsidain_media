@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日语/动词活用.md",
+                "file": "日语/02动词活用表格.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日语/动词活用.md",
+                "file": "日语/01日语翻译小昊子 BV1hK4y1S7hz.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e19cd1f5f5a3327",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日语/日语里，ない和ではない用在名词后有什么区别？？？.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日语/动词活用.md",
+                "file": "日语/01日语翻译小昊子 BV1hK4y1S7hz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日语/动词活用.md",
+                "file": "日语/01日语翻译小昊子 BV1hK4y1S7hz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日语/动词活用.md"
+                "file": "日语/01日语翻译小昊子 BV1hK4y1S7hz.md"
               }
             }
           }
@@ -162,15 +174,24 @@
   },
   "active": "b7464d93c8193391",
   "lastOpenFiles": [
-    "日语/未命名.md",
+    "日语/日语里，ない和ではない用在名词后有什么区别？？？.md",
+    "日语/01日语翻译小昊子 BV1hK4y1S7hz.md",
+    "日语/02动词活用表格.md",
+    "日语/03学校文法 和 教育文法 对照.md",
     "日语/日语 形容词、形容动词、动词的活用.md",
+    "日语/日语 形容词、形容动词、动词的活用01(完整版).md",
+    "乐理/调式.md",
+    "乐理/基础概念.md",
+    "乐理",
+    "attachment/Screenshot_2024-02-02-22-54-58-138_tv.danmaku.bili.jpg",
+    "attachment/Screenshot_2024-02-02-22-18-05-805_tv.danmaku.bili.jpg",
+    "attachment/Screenshot_2024-02-02-22-18-02-253_tv.danmaku.bili.jpg",
+    "attachment/54fbb2fb43166d2248b77051d19e43fb9252d278.jpeg",
+    "attachment/1000004910.jpg",
     "attachment/日语 形容词、形容动词、动词的活用 2.md",
-    "日语/动词活用.md",
     "attachment/日语 形容词、形容动词、动词的活用 3.md",
     "attachment/日语 形容词、形容动词、动词的活用 1.md",
     "attachment/日语 形容词、形容动词、动词的活用.md",
-    "日语/学校文法 和 教育文法 对照.md",
-    "日语/日语翻译小昊子 BV1hK4y1S7hz.md",
     "attachment/Pasted image 20240119012338.png",
     "attachment/Pasted image 20240119012315.png",
     "attachment/Pasted image 20240119011856.png",
@@ -184,11 +205,6 @@
     "00_inbox/未命名.md",
     "attachment/Screenshot_2023-12-22-19-34-34-763_mark.via.gp.jpg",
     "计算机/单片机和cpu.md",
-    "attachment/Pasted image 20231216225659.png",
-    "attachment/Pasted image 20231216225645.png",
-    "attachment/Pasted image 20231216225633.png",
-    "attachment/Pasted image 20231216225617.png",
-    "attachment/Pasted image 20231216225610.png",
     "日语",
     "计算机",
     "init.md",
