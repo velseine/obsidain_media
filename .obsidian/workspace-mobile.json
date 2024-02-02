@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "35685461f245e52f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_inbox/调式.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "日语/学校文法 和 教育文法 对照.md",
+            "file": "00_inbox/调式.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "日语/学校文法 和 教育文法 对照.md",
+            "file": "00_inbox/调式.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "日语/学校文法 和 教育文法 对照.md"
+            "file": "00_inbox/调式.md"
           }
         }
       }
@@ -145,14 +157,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4fb67956fff27785",
+  "active": "35685461f245e52f",
   "lastOpenFiles": [
+    "日语/学校文法 和 教育文法 对照.md",
+    "00_inbox/调式.md",
+    "乐理",
     "日语/日语 形容词、形容动词、动词的活用.md",
     "日语/动词活用.md",
     "日语/日语翻译小昊子 BV1hK4y1S7hz.md",
     "00_inbox/2023-12-31.md",
     "00_inbox/[.md",
-    "日语/学校文法 和 教育文法 对照.md",
     "日语/未命名.md",
     "attachment/日语 形容词、形容动词、动词的活用.md",
     "attachment/日语 形容词、形容动词、动词的活用 3.md",
@@ -189,7 +203,6 @@
     "attachment",
     "/日语",
     "/attachment",
-    "/计算机/单片机和cpu.md",
     "计算机",
     "/计算机"
   ]
