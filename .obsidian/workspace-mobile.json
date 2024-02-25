@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日语/01日语翻译小昊子 BV1hK4y1S7hz.md",
+                "file": "乐理/基础概念.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "00_inbox/2023-12-31.md",
+            "file": "乐理/基础概念.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "00_inbox/2023-12-31.md",
+            "file": "乐理/基础概念.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "00_inbox/2023-12-31.md"
+            "file": "乐理/基础概念.md"
           }
         }
       }
@@ -147,8 +147,9 @@
   },
   "active": "6340a551a5f55d8e",
   "lastOpenFiles": [
-    "日语/んじゃない.md",
     "乐理/调式.md",
+    "00_inbox/2023-12-31.md",
+    "日语/んじゃない.md",
     "日语/02动词活用表格.md",
     "/日语/02动词活用表格.md",
     "日语/03学校文法 和 教育文法 对照.md",
@@ -170,7 +171,6 @@
     "乐理",
     "日语/日语 形容词、形容动词、动词的活用.md",
     "日语/动词活用.md",
-    "00_inbox/2023-12-31.md",
     "00_inbox/[.md",
     "attachment/日语 形容词、形容动词、动词的活用.md",
     "attachment/日语 形容词、形容动词、动词的活用 3.md",
