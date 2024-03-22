@@ -13,5 +13,5 @@ I/O（英语：Input/Output），即输入/输出，通常指数据在[内部存
 
 ![[Pasted image 20240322152251.png]]
 
-将录制的默认设备设置为 voicemeeter output 是将电脑原本要接收的音频默认从  voicemeeter 接收信号的（虚拟）硬件，而在 voicemeeter 中对于 hardware out 的设置是将 voicemeeter 中接受到的信号经过处理之后，要输出的硬件
+将录制的默认设备设置为 voicemeeter output 是将电脑要接收的音频默认从  voicemeeter 中接收，而在 voicemeeter 中对于 hardware out 的设置是将 voicemeeter 中接受到的信号经过处理之后，要输出的硬件
 
