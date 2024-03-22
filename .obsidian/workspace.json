@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "软件/voicesmeeter/软件界面.md",
+                "file": "软件/voicesmeeter/关于 input 和 output.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "软件/voicesmeeter/软件界面.md",
+                "file": "软件/voicesmeeter/关于 input 和 output.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "软件/voicesmeeter/软件界面.md",
+                "file": "软件/voicesmeeter/关于 input 和 output.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "软件/voicesmeeter/软件界面.md"
+                "file": "软件/voicesmeeter/关于 input 和 output.md"
               }
             }
           }
@@ -174,10 +174,13 @@
   },
   "active": "b7464d93c8193391",
   "lastOpenFiles": [
+    "attachment/Pasted image 20240322152251.png",
+    "attachment/Pasted image 20240322152107.png",
+    "attachment/Pasted image 20240322151907.png",
+    "软件/voicesmeeter/软件界面.md",
     "attachment/Pasted image 20240322151449.png",
     "attachment/Pasted image 20240322150953.png",
     "软件/voicesmeeter/关于 input 和 output.md",
-    "软件/voicesmeeter/软件界面.md",
     "乐理/基础概念.md",
     "软件/voicesmeeter",
     "软件/未命名.md",
@@ -200,9 +203,6 @@
     "attachment/日语 形容词、形容动词、动词的活用 1.md",
     "attachment/日语 形容词、形容动词、动词的活用.md",
     "attachment/Pasted image 20240119012338.png",
-    "attachment/Pasted image 20240119012315.png",
-    "attachment/Pasted image 20240119011856.png",
-    "attachment/Pasted image 20240119011850.png",
     "内存相差百万倍！单片机和CPU的区别？_哔哩哔哩_bilibili.mp4",
     "00_inbox/2023-12-31.md",
     "00_inbox/[.md",
