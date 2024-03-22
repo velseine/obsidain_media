@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "软件/voicesmeeter/关于 input 和 output.md",
+                "file": "软件/voicesmeeter/软件界面.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "软件/voicesmeeter/关于 input 和 output.md",
+                "file": "软件/voicesmeeter/软件界面.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "软件/voicesmeeter/关于 input 和 output.md",
+                "file": "软件/voicesmeeter/软件界面.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "软件/voicesmeeter/关于 input 和 output.md"
+                "file": "软件/voicesmeeter/软件界面.md"
               }
             }
           }
@@ -174,8 +174,10 @@
   },
   "active": "b7464d93c8193391",
   "lastOpenFiles": [
-    "乐理/基础概念.md",
+    "attachment/Pasted image 20240322150953.png",
     "软件/voicesmeeter/关于 input 和 output.md",
+    "软件/voicesmeeter/软件界面.md",
+    "乐理/基础概念.md",
     "软件/voicesmeeter",
     "软件/未命名.md",
     "软件",
